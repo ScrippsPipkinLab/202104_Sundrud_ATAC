@@ -1,1 +1,1 @@
-# 202104_Sundrud_ATAC
+# 202104 Sundrud ATAC-seq
